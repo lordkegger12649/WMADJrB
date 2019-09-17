@@ -1,0 +1,7 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\OurFirstApp\OurFirstApp\bin\Debug\OurFirstApp.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\OurFirstApp\OurFirstApp\bin\Debug\OurFirstApp.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\OurFirstApp\OurFirstApp\bin\Debug\OurFirstApp.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\OurFirstApp\OurFirstApp\obj\Debug\OurFirstApp.csprojAssemblyReference.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\OurFirstApp\OurFirstApp\obj\Debug\OurFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\OurFirstApp\OurFirstApp\obj\Debug\OurFirstApp.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\OurFirstApp\OurFirstApp\obj\Debug\OurFirstApp.pdb

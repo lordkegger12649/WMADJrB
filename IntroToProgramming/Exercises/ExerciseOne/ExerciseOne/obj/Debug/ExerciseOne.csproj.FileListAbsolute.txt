@@ -1,0 +1,7 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.csprojAssemblyReference.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.pdb

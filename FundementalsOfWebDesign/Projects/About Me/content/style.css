@@ -1,0 +1,49 @@
+/*
+Alex Richard
+2019-09-12
+WMADJrB
+About Me CSS Stylesheet
+*/
+
+html {
+	background-color:SlateBlue;
+}
+
+/*Set the max width colour and padding for the main body*/
+body {
+	max-width:500px;
+	background-color:#f0f0f0;
+	padding:5px;
+}
+/*Indents the first line of paragraphs*/
+p.para {
+	text-indent:2em;
+}
+/*Create the flex element for the first section*/
+#AllAboutMe {
+	width:100%;
+	display:flex;
+	flex-direction:row;
+}
+/*Resizes the picture of me to fit inside the flexbox and maintain aspect ratio*/
+#MyPic {
+	max-width: 100%;
+}
+/*Create and orders biographical info flexbox first and creates a border*/
+#BioInfo {
+	order:1;
+	flex: 0 1 75%;
+	border: 1px solid black;
+}
+/*Creates and orders the picture flexbox Second*/
+#PicDiv {
+	margin:5px;
+	order:2;
+	flex: 0 1 25%;
+}
+/*Creates the flex element for the Second section*/
+#MoreAboutMe {
+	display:flex;
+	flex-direction:column;
+	flex: 1 1 100%;
+}

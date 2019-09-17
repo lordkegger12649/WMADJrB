@@ -1,0 +1,6 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\Miles per Gallon\bin\Debug\Miles per Gallon.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\Miles per Gallon\bin\Debug\Miles per Gallon.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\Miles per Gallon\bin\Debug\Miles per Gallon.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\Miles per Gallon\obj\Debug\MilesPerGallon.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\Miles per Gallon\obj\Debug\Miles per Gallon.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\Miles per Gallon\obj\Debug\Miles per Gallon.pdb

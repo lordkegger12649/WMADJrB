@@ -1,0 +1,7 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\ArithmaticDemo\ArithmaticDemo\bin\Debug\ArithmaticDemo.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\ArithmaticDemo\ArithmaticDemo\bin\Debug\ArithmaticDemo.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\ArithmaticDemo\ArithmaticDemo\bin\Debug\ArithmaticDemo.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\ArithmaticDemo\ArithmaticDemo\obj\Debug\ArithmaticDemo.csprojAssemblyReference.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\ArithmaticDemo\ArithmaticDemo\obj\Debug\ArithmaticDemo.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\ArithmaticDemo\ArithmaticDemo\obj\Debug\ArithmaticDemo.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\ArithmaticDemo\ArithmaticDemo\obj\Debug\ArithmaticDemo.pdb

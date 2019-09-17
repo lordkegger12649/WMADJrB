@@ -1,0 +1,7 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\TypeConversionDemo\TypeConversionDemo\bin\Debug\TypeConversionDemo.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\TypeConversionDemo\TypeConversionDemo\bin\Debug\TypeConversionDemo.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\TypeConversionDemo\TypeConversionDemo\bin\Debug\TypeConversionDemo.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\TypeConversionDemo\TypeConversionDemo\obj\Debug\TypeConversionDemo.csprojAssemblyReference.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\TypeConversionDemo\TypeConversionDemo\obj\Debug\TypeConversionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\TypeConversionDemo\TypeConversionDemo\obj\Debug\TypeConversionDemo.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\TypeConversionDemo\TypeConversionDemo\obj\Debug\TypeConversionDemo.pdb

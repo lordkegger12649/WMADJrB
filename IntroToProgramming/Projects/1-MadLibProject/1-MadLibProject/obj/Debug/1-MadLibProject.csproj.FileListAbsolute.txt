@@ -1,0 +1,7 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\1-MadLibProject\1-MadLibProject\bin\Debug\1-MadLibProject.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\1-MadLibProject\1-MadLibProject\bin\Debug\1-MadLibProject.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\1-MadLibProject\1-MadLibProject\bin\Debug\1-MadLibProject.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\1-MadLibProject\1-MadLibProject\obj\Debug\1-MadLibProject.csprojAssemblyReference.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\1-MadLibProject\1-MadLibProject\obj\Debug\1-MadLibProject.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\1-MadLibProject\1-MadLibProject\obj\Debug\1-MadLibProject.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\1-MadLibProject\1-MadLibProject\obj\Debug\1-MadLibProject.pdb

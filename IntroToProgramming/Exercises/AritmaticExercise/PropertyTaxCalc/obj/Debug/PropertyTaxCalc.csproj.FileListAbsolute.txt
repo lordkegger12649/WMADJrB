@@ -1,0 +1,6 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\PropertyTaxCalc\bin\Debug\PropertyTaxCalc.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\PropertyTaxCalc\bin\Debug\PropertyTaxCalc.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\PropertyTaxCalc\bin\Debug\PropertyTaxCalc.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\PropertyTaxCalc\obj\Debug\PropertyTaxCalc.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\PropertyTaxCalc\obj\Debug\PropertyTaxCalc.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\PropertyTaxCalc\obj\Debug\PropertyTaxCalc.pdb

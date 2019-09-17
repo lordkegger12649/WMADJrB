@@ -1,0 +1,7 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\CreatingVarsDemo\CreatingVarsDemo\CreatingVarsDemo\bin\Debug\CreatingVarsDemo.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\CreatingVarsDemo\CreatingVarsDemo\CreatingVarsDemo\bin\Debug\CreatingVarsDemo.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\CreatingVarsDemo\CreatingVarsDemo\CreatingVarsDemo\bin\Debug\CreatingVarsDemo.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\CreatingVarsDemo\CreatingVarsDemo\CreatingVarsDemo\obj\Debug\CreatingVarsDemo.csprojAssemblyReference.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\CreatingVarsDemo\CreatingVarsDemo\CreatingVarsDemo\obj\Debug\CreatingVarsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\CreatingVarsDemo\CreatingVarsDemo\CreatingVarsDemo\obj\Debug\CreatingVarsDemo.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\CreatingVarsDemo\CreatingVarsDemo\CreatingVarsDemo\obj\Debug\CreatingVarsDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\GettingUserInputDemo\GettingUserInputDemo\bin\Debug\GettingUserInputDemo.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\GettingUserInputDemo\GettingUserInputDemo\bin\Debug\GettingUserInputDemo.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\GettingUserInputDemo\GettingUserInputDemo\bin\Debug\GettingUserInputDemo.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\GettingUserInputDemo\GettingUserInputDemo\obj\Debug\GettingUserInputDemo.csprojAssemblyReference.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\GettingUserInputDemo\GettingUserInputDemo\obj\Debug\GettingUserInputDemo.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\GettingUserInputDemo\GettingUserInputDemo\obj\Debug\GettingUserInputDemo.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\GettingUserInputDemo\GettingUserInputDemo\obj\Debug\GettingUserInputDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\BMICalculator\obj\Debug\BMICalculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\Perimeter\bin\Debug\Perimeter.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\Perimeter\bin\Debug\Perimeter.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\Perimeter\bin\Debug\Perimeter.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\Perimeter\obj\Debug\PerimeterCalc.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\Perimeter\obj\Debug\Perimeter.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\Perimeter\obj\Debug\Perimeter.pdb

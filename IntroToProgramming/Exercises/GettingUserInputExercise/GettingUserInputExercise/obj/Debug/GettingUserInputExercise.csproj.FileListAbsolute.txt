@@ -1,0 +1,7 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\GettingUserInputExercise\GettingUserInputExercise\bin\Debug\GettingUserInputExercise.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\GettingUserInputExercise\GettingUserInputExercise\bin\Debug\GettingUserInputExercise.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\GettingUserInputExercise\GettingUserInputExercise\bin\Debug\GettingUserInputExercise.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\GettingUserInputExercise\GettingUserInputExercise\obj\Debug\GettingUserInputExercise.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\GettingUserInputExercise\GettingUserInputExercise\obj\Debug\GettingUserInputExercise.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\GettingUserInputExercise\GettingUserInputExercise\obj\Debug\GettingUserInputExercise.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\GettingUserInputExercise\GettingUserInputExercise\obj\Debug\GettingUserInputExercise.csprojAssemblyReference.cache

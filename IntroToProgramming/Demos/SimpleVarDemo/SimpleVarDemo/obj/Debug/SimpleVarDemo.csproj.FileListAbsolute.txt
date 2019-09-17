@@ -1,0 +1,7 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\SimpleVarDemo\SimpleVarDemo\bin\Debug\SimpleVarDemo.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\SimpleVarDemo\SimpleVarDemo\bin\Debug\SimpleVarDemo.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\SimpleVarDemo\SimpleVarDemo\bin\Debug\SimpleVarDemo.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\SimpleVarDemo\SimpleVarDemo\obj\Debug\SimpleVarDemo.csprojAssemblyReference.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\SimpleVarDemo\SimpleVarDemo\obj\Debug\SimpleVarDemo.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\SimpleVarDemo\SimpleVarDemo\obj\Debug\SimpleVarDemo.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\SimpleVarDemo\SimpleVarDemo\obj\Debug\SimpleVarDemo.pdb

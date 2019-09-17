@@ -1,0 +1,6 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\TicketSaleCalc\bin\Debug\TicketSaleCalc.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\TicketSaleCalc\bin\Debug\TicketSaleCalc.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\TicketSaleCalc\bin\Debug\TicketSaleCalc.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\TicketSaleCalc\obj\Debug\TicketSaleCalc.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\TicketSaleCalc\obj\Debug\TicketSaleCalc.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Exercises\AritmaticExercise\TicketSaleCalc\obj\Debug\TicketSaleCalc.pdb

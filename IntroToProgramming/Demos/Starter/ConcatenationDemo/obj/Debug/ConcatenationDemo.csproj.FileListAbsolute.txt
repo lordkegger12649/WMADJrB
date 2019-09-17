@@ -1,0 +1,14 @@
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Programming\Fall 2019\2.Simple Var and String Concat\1.Demo\ConcatenationDemo\bin\Debug\ConcatenationDemo.exe.config
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Programming\Fall 2019\2.Simple Var and String Concat\1.Demo\ConcatenationDemo\bin\Debug\ConcatenationDemo.exe
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Programming\Fall 2019\2.Simple Var and String Concat\1.Demo\ConcatenationDemo\bin\Debug\ConcatenationDemo.pdb
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Programming\Fall 2019\2.Simple Var and String Concat\1.Demo\ConcatenationDemo\obj\Debug\ConcatenationDemo.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Programming\Fall 2019\2.Simple Var and String Concat\1.Demo\ConcatenationDemo\obj\Debug\ConcatenationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Programming\Fall 2019\2.Simple Var and String Concat\1.Demo\ConcatenationDemo\obj\Debug\ConcatenationDemo.exe
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G - Intro to Programming\Fall 2019\2.Simple Var and String Concat\1.Demo\ConcatenationDemo\obj\Debug\ConcatenationDemo.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\Starter\ConcatenationDemo\bin\Debug\ConcatenationDemo.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\Starter\ConcatenationDemo\bin\Debug\ConcatenationDemo.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\Starter\ConcatenationDemo\bin\Debug\ConcatenationDemo.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\Starter\ConcatenationDemo\obj\Debug\ConcatenationDemo.csprojAssemblyReference.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\Starter\ConcatenationDemo\obj\Debug\ConcatenationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\Starter\ConcatenationDemo\obj\Debug\ConcatenationDemo.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Demos\Starter\ConcatenationDemo\obj\Debug\ConcatenationDemo.pdb

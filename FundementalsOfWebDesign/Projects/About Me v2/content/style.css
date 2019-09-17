@@ -1,0 +1,29 @@
+/*
+Alex Richard
+2019-09-12
+WMADJrB
+About Me CSS Stylesheet v.2
+*/
+body {
+	font-family:verdana, arial, helvetica, sans-serif;
+}
+header {
+	text-align:center;
+}
+nav {
+	text-align:center;
+}
+main {
+	width: 90%;
+	margin: 0 auto;
+	background-color:slateblue;
+	color:white;
+	/*font-weight:bold;*/
+	padding: 0 2%;
+}
+footer {
+	text-align:center;
+}
+#MyPic {
+	max-width: 200px;
+}

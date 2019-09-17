@@ -1,0 +1,7 @@
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\ExerciseTwo\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.exe.config
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\ExerciseTwo\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\ExerciseTwo\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.pdb
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\ExerciseTwo\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.csprojAssemblyReference.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\ExerciseTwo\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.csproj.CoreCompileInputs.cache
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\ExerciseTwo\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.exe
+C:\Users\Alex Richard\OneDrive\Documents\School\Intro to Programming\Projects\ExerciseTwo\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.pdb
